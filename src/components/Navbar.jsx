@@ -43,7 +43,7 @@ const Navbar = () => {
           {/* Desktop CTA Button */}
           <div className="hidden md:block">
             <a
-              href="https://drive.google.com/file/d/12pW0oxrX2hF3zIv9ZtVCdpiepD3dmPST/view?usp=sharing"
+              href="https://drive.google.com/file/d/1WZ4UalDTAM4aeQu5yNdvHjn_t7F1onrC/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-accent-blue text-primary-dark font-bold py-2 px-6 rounded-md hover:bg-opacity-90 duration-300 cursor-pointer"
@@ -88,7 +88,7 @@ const Navbar = () => {
             {/* Mobile CTA Button */}
             <div className="p-6">
               <a
-                href="https://drive.google.com/file/d/12pW0oxrX2hF3zIv9ZtVCdpiepD3dmPST/view?usp=sharing"
+                href="https://drive.google.com/file/d/1WZ4UalDTAM4aeQu5yNdvHjn_t7F1onrC/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full block text-center bg-accent-blue text-primary-dark font-bold py-3 px-6 rounded-md hover:bg-opacity-90 duration-300 cursor-pointer"

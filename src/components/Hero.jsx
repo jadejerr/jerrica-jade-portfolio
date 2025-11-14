@@ -44,7 +44,7 @@ const Hero = () => {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start mb-8">
             <a
-              href="https://drive.google.com/file/d/12pW0oxrX2hF3zIv9ZtVCdpiepD3dmPST/view?usp=sharing"
+              href="https://drive.google.com/file/d/1WZ4UalDTAM4aeQu5yNdvHjn_t7F1onrC/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-accent-blue text-primary-dark font-bold py-3 px-8 rounded-md hover:bg-opacity-90 transition duration-300 transform hover:-translate-y-1 cursor-pointer"
