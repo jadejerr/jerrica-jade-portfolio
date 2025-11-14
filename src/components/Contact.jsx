@@ -18,8 +18,7 @@ const Contact = () => {
             </p>
           </div>
 
-          {/* --- Contact Information --- */}
-          {/* We use max-w-lg and mx-auto to center the list now that the form is gone */}
+          {/* Contact Information */}
           <div className="flex flex-col space-y-6 max-w-lg mx-auto">
             <ContactInfoItem
               icon={<MdEmail size={24} />}
@@ -46,7 +45,6 @@ const Contact = () => {
   );
 };
 
-// --- Small helper component for contact info items ---
 const ContactInfoItem = ({ icon, title, text, href }) => {
   const content = (
     <div className="flex items-start space-x-4">

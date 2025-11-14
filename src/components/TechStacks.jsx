@@ -8,24 +8,22 @@ import {
   FaGitAlt,
   FaGithub,
   FaFigma,
-  FaDatabase, // Added for SQL
+  FaDatabase,
 } from 'react-icons/fa';
 import {
   SiTailwindcss,
   SiVite,
   SiMysql,
   SiSqlite,
-  SiC,          // Added
-  SiCplusplus,  // Added
-  SiPhp,        // Added
-  SiXampp,      // Added
-  SiNetlify,    // Added
+  SiC,
+  SiCplusplus,
+  SiPhp,
+  SiXampp,
+  SiNetlify,
 } from 'react-icons/si';
 import { DiVisualstudio } from "react-icons/di";
 import ScrollAnimation from './ScrollAnimation';
 
-// --- YOUR TECH STACK DATA ---
-// I've added your new items to the end
 const techStackData = [
   { id: 1, name: 'React', icon: <FaReact size={40} /> },
   { id: 2, name: 'JavaScript', icon: <FaJsSquare size={40} /> },
@@ -48,7 +46,6 @@ const techStackData = [
   { id: 19, name: 'Netlify', icon: <SiNetlify size={40} /> },
   { id: 20, name: 'Figma', icon: <FaFigma size={40} /> },
 ];
-// --------------------------
 
 const TechStacks = () => {
   return (

@@ -40,7 +40,7 @@ const Navbar = () => {
             ))}
           </ul>
 
-          {/* --- Desktop CTA Button --- */}
+          {/* Desktop CTA Button */}
           <div className="hidden md:block">
             <a
               href="https://drive.google.com/file/d/12pW0oxrX2hF3zIv9ZtVCdpiepD3dmPST/view?usp=sharing"
@@ -57,7 +57,7 @@ const Navbar = () => {
             {nav ? <AiOutlineClose size={30} /> : <AiOutlineMenu size={30} />}
           </div>
 
-          {/* --- Mobile Menu --- */}
+          {/* Mobile Menu */}
           <div
             className={
               nav
@@ -85,7 +85,7 @@ const Navbar = () => {
               ))}
             </ul>
 
-            {/* --- Mobile CTA Button --- */}
+            {/* Mobile CTA Button */}
             <div className="p-6">
               <a
                 href="https://drive.google.com/file/d/12pW0oxrX2hF3zIv9ZtVCdpiepD3dmPST/view?usp=sharing"
