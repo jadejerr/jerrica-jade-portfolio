@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 z-10 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div className="text-center md:text-left order-2 md:order-1">
           <p className="text-secondary-text text-lg mb-2">Hello 👋 I'm JERRICA JADE, a dedicated</p>
-          <h1 className="text-5xl md:text-6xl font-extrabold text-light-text mb-4 leading-tight">
+          <h1 className="text-5xl md:text-6xl font-extrabold text-light-text mb-4 leading-tight min-h-36 md:min-h-0">
             {' '}
             <span className="text-accent-blue text-[55px]">
               {/* Typing Animation */}
