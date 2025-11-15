@@ -59,7 +59,7 @@ const TechStacks = () => {
               MY SKILLS
             </p>
             <h2 className="text-4xl md:text-5xl font-extrabold text-light-text mt-2">
-              My Tech Stack
+              Tech Stack
             </h2>
           </div>
 
